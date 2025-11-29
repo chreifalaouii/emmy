@@ -19,3 +19,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
 </p>
 
+### 🚀 Featured Projects
+- 🔹 [C Language POOL] — Practice exercises to master C programming fundamentals.
+- 🔹 [LIBFT] — Custom implementation of standard C library functions.
+- 🔹 [GET_NEXT_LINE] — Function to read a line from a file descriptor efficiently.
+- 🔹 [FT_PRINTF] — Custom version of printf to format and print text in C.
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
