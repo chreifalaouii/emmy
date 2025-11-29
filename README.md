@@ -5,7 +5,7 @@
 ---
 
 
-<h1 align="center">Hi 👋, I'm YOUR emmy</h1>
+<h1 align="center">Hi 👋, I'm emmy</h1>
 <h3 align="center">A passionate developer | C enthusiast | Lifelong learner</h3>
 
 <p align="center">
@@ -29,4 +29,8 @@
 - 🔹 [GET_NEXT_LINE] — Function to read a line from a file descriptor efficiently.
 - 🔹 [FT_PRINTF] — Custom version of printf to format and print text in C.
 
-<img src="https://github-readme-stats.vercel.app/api?username=IMLAFDIL&show_icons=true&theme=tokyonight" />
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY2cXB2MDdhYWdqdHo1ejQ2ZHZicnM1b3RkemZzY2FodnNnZHpyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/56VFAklJ9ue1bilT8S/giphy.gif" alt="fun GIF" />
+</p>
