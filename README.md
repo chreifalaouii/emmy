@@ -2,13 +2,14 @@
 <h3 align="center">A passionate developer</h3>
 
 ### 👨‍💻 About Me
-- 🔭 Working on **Born2beroot**
-- 🌱 Learning **shell / c /**
-- ⚡ Fun fact: **I love clean UI & tools**
+- 🔭 I’m currently working on **Born2beroot**
+- 🌱 I’m learning **shell, C**
+- 💬 Ask me about **UNIX, C, shell, html, css, python**
+- ⚡ Fun fact: **I love building clean UIs and tools**
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,html,css,tailwind,git,linux,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,linux,C" />
 </p>
 
 ### 📊 GitHub Stats
