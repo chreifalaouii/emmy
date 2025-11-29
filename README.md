@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w3dDl6dmRoeXhkN3g4dDIxNThlYzdsMzN0eHVxdnI4ZTltc25kZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EJGsKGyu9r48KgiOB4/giphy.gif" alt="fun gif" />
+</p>
+
+---
+
+
 <h1 align="center">Hi 👋, I'm YOUR emmy</h1>
 <h3 align="center">A passionate developer | C enthusiast | Lifelong learner</h3>
 
@@ -12,15 +19,6 @@
 ### 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,git,linux,vscode,html,css" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=IMLAFDIL&show_icons=true&theme=tokyonight&count_private=true](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2w3dDl6dmRoeXhkN3g4dDIxNThlYzdsMzN0eHVxdnI4ZTltc25kZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EJGsKGyu9r48KgiOB4/giphy.gif)" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
 </p>
 
 ---
